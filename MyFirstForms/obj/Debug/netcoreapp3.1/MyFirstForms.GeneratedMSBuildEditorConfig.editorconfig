@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = MyFirstForms
+build_property.ProjectDir = C:\Users\1\Desktop\C#\4. Делегаты, события, интерфейсы, лямбда выражения\Тема 3.  Визуальное программирование\MyFirstForms\MyFirstForms\
